@@ -43,4 +43,14 @@ h1 {
       }
 
 
-      
+      .parentContainer {
+        margin-bottom: 4rem;
+      }
+
+      .childContainer {
+        margin: 2rem;
+      }
+
+      .card {
+        padding: 1rem;
+      }
