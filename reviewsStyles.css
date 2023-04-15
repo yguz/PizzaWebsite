@@ -1,0 +1,15 @@
+body {
+    background: url('images/logo.png') no-repeat center fixed;  
+    background-image: linear-gradient(
+        rgba(30, 30, 30, 0.8),
+        rgba(76, 62, 62, 0.8)
+        ),
+        url(images/logo.png);  
+    background-size: cover;
+        }
+
+.card-review img {
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0.2rem;
+}
