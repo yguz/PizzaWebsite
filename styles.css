@@ -20,14 +20,12 @@ h1 {
     .page-heading {
         position: absolute;
         top: 40%;
-        left: 50%;
-        transform: translate(-50%, -50%);
         color: #fff9f9f6;
         white-space: nowrap;
       }
       
       .page-heading-primary {
-        display: block;
+        display: flex;
         font-size: 3.125rem;
         font-weight: 300;
         text-transform: uppercase;
@@ -35,7 +33,7 @@ h1 {
       }
       
       .page-heading-secondary {
-        display: block;
+        display: flex;
         font-size: 1.25rem;
         font-weight: 700;
         text-transform: uppercase;
